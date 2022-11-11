@@ -1,5 +1,5 @@
 # Welcome!
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif])
 
 ## Educational background
  MSc Data Analytics, Queen's Univeristy Belfast {/n}
