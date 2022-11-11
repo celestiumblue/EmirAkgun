@@ -3,7 +3,7 @@
 Ex Deloitte Analyst
 ## Educational background
 ### Academic programmes
- MSc Data Analytics, Queen's Univeristy Belfast 
+ MSc in Data Analytics, Queen's Univeristy Belfast 
  
  Bachelor's degree in Managament, Plekhanov Russian University of Economics
 ### Certifications and additional courses
@@ -14,7 +14,6 @@ Ex Deloitte Analyst
 ![Alt Text](https://img.shields.io/badge/-R-276DC2?logo=r&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-ABAP-00B9F2?logo=sap&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-Kotlin-E24462?logo=kotlin&logoColor=white&style=flat-square)
-
 ### DS & ML frameworks
 ### Data visualisation tools
 ### MLOps tools
