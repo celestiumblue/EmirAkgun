@@ -3,10 +3,11 @@
 
 ## Educational background
 ### Academic programmes
- MSc Data Analytics, Queen's Univeristy Belfast {/n}
+ MSc Data Analytics, Queen's Univeristy Belfast 
+ 
  Bachelor's degree in Managament, Plekhanov Russian University of Economics
 ### Certifications and additional courses
 -
 ## Tech stack
 ### Programming languages
-![Alt Text]https://img.shields.io/badge/-Python3-4B8BBE?logo=python&logoColor=white
+![Alt Text](https://img.shields.io/badge/-Python3-4B8BBE?logo=python&logoColor=white)
