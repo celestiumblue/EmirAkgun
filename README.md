@@ -1,6 +1,6 @@
 # Ahoy! 
 ![Alt Text](https://media.giphy.com/media/a8fZR5ezrUGP7satX9/giphy.gif)
-
+Ex Deloitte Analyst
 ## Educational background
 ### Academic programmes
  MSc Data Analytics, Queen's Univeristy Belfast 
@@ -15,3 +15,10 @@
 ![Alt Text](https://img.shields.io/badge/-ABAP-00B9F2?logo=sap&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-Kotlin-E24462?logo=kotlin&logoColor=white&style=flat-square)
 
+### DS & ML frameworks
+### Data visualisation tools
+### MlOPS tools
+### DBs and Data warehouses
+![Alt Text](https://img.shields.io/badge/-BigQuery-4285F4?logo=bigquery&logoColor=white&style=flat-square)
+### IDEs
+### Other Tools
