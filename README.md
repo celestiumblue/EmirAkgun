@@ -26,10 +26,10 @@ Ex Deloitte Analyst
 ### Workflow platforms
 ### Other Tools
 ![Alt Text](https://img.shields.io/badge/-Git-F1502F?logo=git&logoColor=white&style=flat-square)
-## Contact me through email or via:
+#### Contact me through email or via:
 ![Alt Text](https://img.shields.io/badge/-LinkedIn-0072b1?logo=linkedin&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-Personal%20Website-191919?logo=undertale&logoColor=white&style=flat-square)
-## Miscellaneous links
+#### Miscellaneous links
 ![Alt Text](https://img.shields.io/badge/-Kaggle-20beff?logo=kaggle&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-DataCamp-03ef62?logo=datacamp&logoColor=white&style=flat-square)
-![Alt Text](https://img.shields.io/badge/-GooglePlay-01875f?logo=googleplay&logoColor=white&style=flat-square)
+![Alt Text](https://img.shields.io/badge/-GooglePlay-00C9FF?logo=googleplay&logoColor=white&style=flat-square)
