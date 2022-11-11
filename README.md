@@ -17,8 +17,8 @@ Ex Deloitte Analyst
 
 ### DS & ML frameworks
 ### Data visualisation tools
-### MlOPS tools
+### MLOps tools
 ### DBs and Data warehouses
-![Alt Text](https://img.shields.io/badge/-BigQuery-4285F4?logo=bigquery&logoColor=white&style=flat-square)
+![Alt Text](https://img.shields.io/badge/-BigQuery-4285F4?logo=gcp&logoColor=white&style=flat-square)
 ### IDEs
 ### Other Tools
