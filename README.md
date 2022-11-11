@@ -1,6 +1,6 @@
 # Ahoy! 
 ![Alt Text](https://media.giphy.com/media/a8fZR5ezrUGP7satX9/giphy.gif)
-Ex Deloitte Analyst
+Ex Deloitte Analyst ![Alt Text](https://img.shields.io/badge/-Deloitte-03ef62?logo=deloitte&style=flat-square)
 ## Educational background
 ### Academic programmes
  MSc in Data Analytics, Queen's Univeristy Belfast 
@@ -32,3 +32,4 @@ Ex Deloitte Analyst
 ## Miscellaneous links
 ![Alt Text](https://img.shields.io/badge/-Kaggle-20beff?logo=kaggle&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-DataCamp-03ef62?logo=datacamp&logoColor=white&style=flat-square)
+![Alt Text](https://img.shields.io/badge/-GooglePlay-01875f?logo=googleplay&logoColor=white&style=flat-square)
