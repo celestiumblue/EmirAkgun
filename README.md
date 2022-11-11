@@ -27,7 +27,7 @@ Ex Deloitte Analyst
 ![Alt Text](https://img.shields.io/badge/-Git-F1502F?logo=git&logoColor=white&style=flat-square)
 ## Contact me through email or via:
 ![Alt Text](https://img.shields.io/badge/-LinkedIn-0072b1?logo=linkedin&logoColor=white&style=flat-square)
-![Alt Text](https://img.shields.io/badge/-Personal%20Website-191919?logo=web&logoColor=white&style=flat-square)
+![Alt Text](https://img.shields.io/badge/-Personal%20Website-191919?logo=globe&logoColor=white&style=flat-square)
 ## Miscellaneous links
 ![Alt Text](https://img.shields.io/badge/-Personal%20Kaggle-20beff?logo=kaggle&logoColor=white&style=flat-square)
-![Alt Text](https://img.shields.io/badge/-Personal%20DataCamp-#03ef62?logo=datacamp&logoColor=white&style=flat-square)
+![Alt Text](https://img.shields.io/badge/-Personal%20DataCamp-03ef62?logo=datacamp&logoColor=white&style=flat-square)
