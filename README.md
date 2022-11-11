@@ -24,8 +24,11 @@
 ![Alt Text](https://img.shields.io/badge/-SQLite-808080?logo=sqlite&logoColor=white&style=flat-square)
 ### IDEs
 ### Workflow platforms
+![Alt Text](https://img.shields.io/badge/-Git-0052CC?logo=jira&logoColor=white&style=flat-square)
 ### Other Tools
 ![Alt Text](https://img.shields.io/badge/-Git-F1502F?logo=git&logoColor=white&style=flat-square)
+![Alt Text](https://img.shields.io/badge/-HTML-#e34c26?logo=html&logoColor=white&style=flat-square)
+![Alt Text](https://img.shields.io/badge/-GM:S%202-34f7fa?logo=gamemaker&logoColor=white&style=flat-square)
 #### Contact me through email or via:
 ![Alt Text](https://img.shields.io/badge/-LinkedIn-0072b1?logo=linkedin&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-Personal%20Website-191919?logo=undertale&logoColor=white&style=flat-square)
