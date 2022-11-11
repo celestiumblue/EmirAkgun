@@ -20,6 +20,7 @@ Ex Deloitte Analyst
 ### MLOps tools
 ### DBs and Data warehouses
 ![Alt Text](https://img.shields.io/badge/-BigQuery-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
-![Alt Text](https://img.shields.io/badge/-BWonHANA-00B9F2?logo=sap&logoColor=white&style=flat-square)
+![Alt Text](https://img.shields.io/badge/-BW/HANA-00B9F2?logo=sap&logoColor=white&style=flat-square)
+![Alt Text](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ### IDEs
 ### Other Tools
