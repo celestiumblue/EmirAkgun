@@ -10,4 +10,5 @@
 -
 ## Tech stack
 ### Programming languages
-![Alt Text](https://img.shields.io/badge/-Python3-4B8BBE?logo=python&logoColor=white)
+![Alt Text](https://img.shields.io/badge/-Python3-4B8BBE?logo=python&logoColor=white&style=flat-square)
+![Alt Text](https://img.shields.io/badge/-R-276DC2?logo=r&logoColor=white&style=flat-square)
