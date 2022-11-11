@@ -1,11 +1,11 @@
 # Ahoy! 
 ![Alt Text](https://media.giphy.com/media/a8fZR5ezrUGP7satX9/giphy.gif)
-Ex Deloitte Analyst 
+
 ## Educational background
 ### Academic programmes
- MSc in Data Analytics, Queen's Univeristy Belfast 
+ **MSc in Data Analytics**, Queen's Univeristy Belfast 
  
- Bachelor's degree in Managament, Plekhanov Russian University of Economics
+ **Bachelor's degree in Managament**, Plekhanov Russian University of Economics
 ### Certifications and additional courses
 -
 ## Tech stack
@@ -17,7 +17,7 @@ Ex Deloitte Analyst
 ### DS & ML frameworks
 ### Data visualisation tools
 ### MLOps tools
-### DBs & Data warehouses
+### DBs, Distributed Systems & Data warehouses
 ![Alt Text](https://img.shields.io/badge/-BigQuery-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-BW/HANA-00B9F2?logo=sap&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
