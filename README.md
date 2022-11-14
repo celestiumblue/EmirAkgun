@@ -19,6 +19,7 @@
 ### MLOps tools
 ### DBs, Distributed Systems & Data warehouses
 ![Alt Text](https://img.shields.io/badge/-BigQuery-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
+![Alt Text](https://img.shields.io/badge/-Azure-008AD7?logo=azure&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-BW/HANA-00B9F2?logo=sap&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-SQLite-808080?logo=sqlite&logoColor=white&style=flat-square)
