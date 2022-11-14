@@ -16,7 +16,7 @@
 ![Alt Text](https://img.shields.io/badge/-Kotlin-E24462?logo=kotlin&logoColor=white&style=flat-square)
 ### DS & ML frameworks
 ### Data analysis & visualisation tools
-![Alt Text](https://img.shields.io/badge/-MS Excel-1d6f42?logo=kotlin&logoColor=white&style=flat-square)
+![Alt Text](https://img.shields.io/badge/-MS%20Excel-1d6f42?logo=microsoftexcel&logoColor=white&style=flat-square)
 ### MLOps tools
 ### DBs, Distributed Systems & Data warehouses
 ![Alt Text](https://img.shields.io/badge/-BigQuery-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
