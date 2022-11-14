@@ -15,7 +15,8 @@
 ![Alt Text](https://img.shields.io/badge/-ABAP-00B9F2?logo=sap&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-Kotlin-E24462?logo=kotlin&logoColor=white&style=flat-square)
 ### DS & ML frameworks
-### Data visualisation tools
+### Data analysis & visualisation tools
+![Alt Text](https://img.shields.io/badge/-MS Excel-1d6f42?logo=kotlin&logoColor=white&style=flat-square)
 ### MLOps tools
 ### DBs, Distributed Systems & Data warehouses
 ![Alt Text](https://img.shields.io/badge/-BigQuery-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
@@ -24,7 +25,7 @@
 ![Alt Text](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-SQLite-808080?logo=sqlite&logoColor=white&style=flat-square)
 ### IDEs
-![Alt Text](https://img.shields.io/badge/-PyCharm-4285F4?logo=intellij&logoColor=white&style=flat-square)
+![Alt Text](https://img.shields.io/badge/-PyCharm-3DEA62?logo=pycharm&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-IntelliJ-4285F4?logo=intellij&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-DataSpell-4285F4?logo=intellij&logoColor=white&style=flat-square)
 ### Workflow platforms
