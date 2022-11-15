@@ -8,6 +8,7 @@
  **Bachelor's degree in Managament**, Plekhanov Russian University of Economics
 ### Certifications and additional courses
 -
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Tech stack
 ### Programming languages
 ![Alt Text](https://img.shields.io/badge/-Python3-4B8BBE?logo=python&logoColor=white&style=flat-square)
