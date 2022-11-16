@@ -27,8 +27,8 @@
 ![Alt Text](https://img.shields.io/badge/-SQLite-808080?logo=sqlite&logoColor=white&style=flat-square)
 ### IDEs
 ![Alt Text](https://img.shields.io/badge/-PyCharm-21D789?logo=pycharm&logoColor=white&style=flat-square)
-![Alt Text](https://img.shields.io/badge/-IntelliJ-4285F4?logo=intellij&logoColor=white&style=flat-square)
-![Alt Text](https://img.shields.io/badge/-DataSpell-4285F4?logo=intellij&logoColor=white&style=flat-square)
+![Alt Text](https://img.shields.io/badge/-IntelliJ-FC801D?logo=intellijidea&logoColor=white&style=flat-square)
+![Alt Text](https://img.shields.io/badge/-RStudio-#75AADB?logo=rstudio&logoColor=white&style=flat-square)
 ### Other Tools
 ![Alt Text](https://img.shields.io/badge/-Git-F1502F?logo=git&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
