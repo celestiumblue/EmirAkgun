@@ -21,7 +21,7 @@
 ### MLOps tools
 ### DBs, Distributed Systems & Data warehouses
 ![Alt Text](https://img.shields.io/badge/-BigQuery-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
-![Alt Text](https://img.shields.io/badge/-Azure-008AD7?logo=microsoftazure&logoColor=white&style=flat-square)
+![Alt Text](https://img.shields.io/badge/-MS%20Azure-008AD7?logo=microsoftazure&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-BW/HANA-00B9F2?logo=sap&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-SQLite-808080?logo=sqlite&logoColor=white&style=flat-square)
@@ -31,7 +31,7 @@
 ![Alt Text](https://img.shields.io/badge/-DataSpell-4285F4?logo=intellij&logoColor=white&style=flat-square)
 ### Other Tools
 ![Alt Text](https://img.shields.io/badge/-Git-F1502F?logo=git&logoColor=white&style=flat-square)
-![Alt Text](https://img.shields.io/badge/-FastAPI-#009688?logo=fastapi&logoColor=white&style=flat-square)
+![Alt Text](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-LaTeX-2d5c00?logo=latex&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
