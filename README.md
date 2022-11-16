@@ -16,7 +16,7 @@
 ![Alt Text](https://img.shields.io/badge/-ABAP-00B9F2?logo=sap&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-Kotlin-E24462?logo=kotlin&logoColor=white&style=flat-square)
 ### DS & ML frameworks
-![Alt Text](https://img.shields.io/badge/-Keras-D00000?logo=kerasl&logoColor=white&style=flat-square)
+![Alt Text](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat-square)
 ### Data analysis & visualisation tools
 ![Alt Text](https://img.shields.io/badge/-MS%20Excel-1d6f42?logo=microsoftexcel&logoColor=white&style=flat-square)
 ### MLOps tools
