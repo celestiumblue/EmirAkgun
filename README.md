@@ -3,9 +3,9 @@
 
 ## Educational background
 ### Academic programmes
- **MSc in Data Analytics**, Queen's Univeristy Belfast 
+ **MSc in Data Analytics**, [Queen's Univeristy Belfast ](https://www.qub.ac.uk/)
  
-**Bachelor's degree in Managament**,[Plekhanov Russian University of Economics](https://www.rea.ru/en/Pages/default.aspx)
+**Bachelor's degree in Managament**, [Plekhanov Russian University of Economics](https://www.rea.ru/en/Pages/default.aspx)
 ### Certifications and additional courses
 -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celestiumblue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
