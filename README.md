@@ -5,7 +5,7 @@
 ### Academic programmes
  **MSc in Data Analytics**, Queen's Univeristy Belfast 
  
- **Bachelor's degree in Managament**, Plekhanov Russian University of Economics
+[**Bachelor's degree in Managament**](https://www.rea.ru/en/Pages/default.aspx), Plekhanov Russian University of Economics
 ### Certifications and additional courses
 -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celestiumblue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
