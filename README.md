@@ -1,7 +1,7 @@
 # Ahoy! 
 ![Alt Text](https://media.giphy.com/media/a8fZR5ezrUGP7satX9/giphy.gif)
 
-## Educational background
+## About me
 ### Academic programmes
  **MSc in Data Analytics**, [Queen's Univeristy Belfast ](https://www.qub.ac.uk/)
  
@@ -9,7 +9,7 @@
 ### Certifications and additional courses
 -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celestiumblue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-## Tech stack
+## Stack
 ### Programming languages
 ![Alt Text](https://img.shields.io/badge/-Python3-4B8BBE?logo=python&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-R-276DC2?logo=r&logoColor=white&style=flat-square)
