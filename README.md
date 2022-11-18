@@ -21,7 +21,7 @@
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ### Data analysis & visualisation tools
 ![Alt Text](https://img.shields.io/badge/-MS%20Excel-1d6f42?logo=microsoftexcel&logoColor=white&style=flat-square)
-![Alt Text](https://img.shields.io/badge/-MS%20PowerBI-F2C811?logo=powerbi&logoColor=white&style=flat-square)
+![Alt Text](https://img.shields.io/badge/-MS%20Power%20BI-F2C811?logo=powerbi&logoColor=white&style=flat-square)
 ### MLOps tools
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=flat-square&logo=Pytest&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logoColor=white&logo=docker)
