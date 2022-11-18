@@ -13,7 +13,7 @@
 ### Programming languages
 ![](https://img.shields.io/badge/-Python3-4B8BBE?logo=python&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-R-276DC2?logo=r&logoColor=white&style=flat-square)
-![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white&style=flat-square)
+![Scala](https://img.shields.io/badge/-Scala3-DC322F?logo=scala&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-Kotlin-E24462?logo=kotlin&logoColor=white&style=flat-square)
 ### DS & ML frameworks
 ![Alt Text](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat-square)
@@ -33,6 +33,7 @@
 ![Alt Text](https://img.shields.io/badge/-MS%20Azure-008AD7?logo=microsoftazure&logoColor=white&style=flat-square)
 ![Spark](https://img.shields.io/badge/Apache_Spark-232F3E?style=flat-square&logo=apachespark&logoColor=#E35A16)
 ![Alt Text](https://img.shields.io/badge/-BW/HANA-00B9F2?logo=sap&logoColor=white&style=flat-square)
+![Alt Text](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-SQLite-808080?logo=sqlite&logoColor=white&style=flat-square)
 ### IDEs
