@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celestiumblue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Stack
 ### Programming languages
-![Alt Text](https://img.shields.io/badge/-Python3-4B8BBE?logo=python&logoColor=white&style=flat-square)
+![](https://img.shields.io/badge/-Python3-4B8BBE?logo=python&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-R-276DC2?logo=r&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-ABAP-00B9F2?logo=sap&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-Kotlin-E24462?logo=kotlin&logoColor=white&style=flat-square)
@@ -20,9 +20,15 @@
 ### Data analysis & visualisation tools
 ![Alt Text](https://img.shields.io/badge/-MS%20Excel-1d6f42?logo=microsoftexcel&logoColor=white&style=flat-square)
 ### MLOps tools
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=flat-square&logo=Pytest&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logoColor=white&logo=docker)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logoColor=white&style=flat-square&logo=Terraform)
+![WB](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00.svg?style=flat-square&logo=weightsandbiases&logoColor=black)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dataversioncontrol&logoColor=white)
 ### DBs, Distributed Systems & Data warehouses
 ![Alt Text](https://img.shields.io/badge/-BigQuery-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-MS%20Azure-008AD7?logo=microsoftazure&logoColor=white&style=flat-square)
+![Spark](https://img.shields.io/badge/Apache_Spark-232F3E?style=flat-square&logo=apachespark&logoColor=#E35A16)
 ![Alt Text](https://img.shields.io/badge/-BW/HANA-00B9F2?logo=sap&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-SQLite-808080?logo=sqlite&logoColor=white&style=flat-square)
