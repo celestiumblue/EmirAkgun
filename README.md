@@ -45,7 +45,7 @@
 ![Alt Text](https://img.shields.io/badge/-Kaggle-20beff?logo=kaggle&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-DataCamp-03ef62?logo=datacamp&logoColor=white&style=flat-square)
 <p align = "left">
-  <a href="https://img.shields.io/badge/-GooglePlay-00C9FF?logo=googleplay&logoColor=white&style=flat-square">
+  <a href="https://play.google.com/store/apps/developer?id=S.R.L.C.+studio">
       <img align="left" alt="srlc_gp" src="https://img.shields.io/badge/-GooglePlay-00C9FF?logo=googleplay&logoColor=white&style=flat-square"/>
   </a>
 </p> 
