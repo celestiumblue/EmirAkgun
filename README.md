@@ -44,4 +44,4 @@
 #### Miscellaneous links
 ![Alt Text](https://img.shields.io/badge/-Kaggle-20beff?logo=kaggle&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-DataCamp-03ef62?logo=datacamp&logoColor=white&style=flat-square)
-![Alt Text](https://img.shields.io/badge/-GooglePlay-00C9FF?logo=googleplay&logoColor=white&style=flat-square)(https://play.google.com/store/apps/details?id=com.srlc.thepower)
+[![Alt Text]](https://img.shields.io/badge/-GooglePlay-00C9FF?logo=googleplay&logoColor=white&style=flat-square)(https://play.google.com/store/apps/details?id=com.srlc.thepower)
