@@ -13,7 +13,7 @@
 ### Programming languages
 ![](https://img.shields.io/badge/-Python3-4B8BBE?logo=python&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-R-276DC2?logo=r&logoColor=white&style=flat-square)
-![Alt Text](https://img.shields.io/badge/-ABAP-00B9F2?logo=sap&logoColor=white&style=flat-square)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-Kotlin-E24462?logo=kotlin&logoColor=white&style=flat-square)
 ### DS & ML frameworks
 ![Alt Text](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat-square)
