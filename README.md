@@ -32,7 +32,7 @@
 ### DBs, Distributed Systems & Data warehouses
 ![Alt Text](https://img.shields.io/badge/-BigQuery-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-MS%20Azure-008AD7?logo=microsoftazure&logoColor=white&style=flat-square)
-![Spark](https://img.shields.io/badge/Apache_Spark-232F3E?style=flat-square&logo=apachespark&logoColor=white&style=flat-square)
+![Spark](https://img.shields.io/badge/Apache_Spark-232F3E?style=flat-square&logo=apachespark&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/-BW/HANA-00B9F2?logo=sap&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
