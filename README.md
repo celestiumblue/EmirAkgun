@@ -54,6 +54,6 @@
 ![Alt Text](https://img.shields.io/badge/-DataCamp-03ef62?logo=datacamp&logoColor=white&style=flat-square)
 <p align = "left">
   <a href="https://play.google.com/store/apps/developer?id=S.R.L.C.+studio">
-      <img align="left" alt="srlc_gp" src="https://img.shields.io/badge/-GooglePlay-00C9FF?logo=googleplay&logoColor=white&style=flat-square"/>
+      <img align="left" alt="srlc_gp" src="https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fgoogle-play_732208&psig=AOvVaw3PVzY3Xa0ozZOpDuUFs4hf&ust=1669571588198000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCNi09vy0zPsCFQAAAAAdAAAAABAE"/>
   </a>
 </p> 
