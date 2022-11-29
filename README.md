@@ -1,5 +1,5 @@
 # Ahoy! 
-![Alt Text](https://media.giphy.com/media/a8fZR5ezrUGP7satX9/giphy.gif)
+
 
 ## About me
 ### Academic programmes
@@ -57,3 +57,6 @@
       <img align="left" alt="srlc_gp" src="https://img.shields.io/badge/--000000?logo=googleplay&logoColor=white&style=flat-square"/>
   </a>
 </p> 
+
+
+![Alt Text](https://media.giphy.com/media/a8fZR5ezrUGP7satX9/giphy.gif)
