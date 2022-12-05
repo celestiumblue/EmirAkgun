@@ -8,7 +8,7 @@
 **Bachelor's degree in Managament**, [Plekhanov Russian University of Economics](https://www.rea.ru/en/Pages/default.aspx)
 ### Certifications and additional courses
 -
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celestiumblue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celestiumblue&theme=tokyonight)
 ## Stack
 ### Programming languages
 ![](https://img.shields.io/badge/-Python%203-4B8BBE?logo=python&logoColor=white&style=flat-square)
