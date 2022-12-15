@@ -11,9 +11,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celestiumblue&theme=transparent)
 ## Stack
 ### Programming languages
-![](https://img.shields.io/badge/-Python%203-4B8BBE?logo=python&logoColor=white&style=flat-square)
-![Alt Text](https://img.shields.io/badge/-R-276DC2?logo=r&logoColor=white&style=flat-square)
-![Alt Text](https://img.shields.io/badge/-Kotlin-E24462?logo=kotlin&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python%203-4B8BBE?logo=python&logoColor=white&style=flat-square)
+![R](https://img.shields.io/badge/-R-276DC2?logo=r&logoColor=white&style=flat-square)
+![Kotlin](https://img.shields.io/badge/-Kotlin-E24462?logo=kotlin&logoColor=white&style=flat-square)
+![C](https://img.shields.io/badge/-C-659AD2?logo=c&logoColor=white&style=flat-square)
 ### DS & ML frameworks
 ![Alt Text](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat-square)
 ![Alt Text](https://img.shields.io/badge/-Tensorflow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
