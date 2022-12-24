@@ -12,7 +12,6 @@
 ## Stack
 ### Programming languages
 ![Python](https://img.shields.io/badge/-Python%203-4B8BBE?logo=python&logoColor=white&style=flat-square)
-![C](https://img.shields.io/badge/-C-659AD2?logo=c&logoColor=white&style=flat-square)
 ![R](https://img.shields.io/badge/-R-276DC2?logo=r&logoColor=white&style=flat-square)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-E24462?logo=kotlin&logoColor=white&style=flat-square)
 ### DS & ML frameworks
@@ -39,7 +38,6 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-808080?logo=sqlite&logoColor=white&style=flat-square)
 ### Other Tools
 ![Git](https://img.shields.io/badge/-Git-F1502F?logo=git&logoColor=white&style=flat-square)
-![Cmake](https://img.shields.io/badge/-CMake-9CDD66?logo=cmake&logoColor=white&style=flat-square)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=flat-square)
 ![MP](https://img.shields.io/badge/-MicroPython-2B2728?logo=micropython&logoColor=white&style=flat-square)
 ![MD](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat-square)
