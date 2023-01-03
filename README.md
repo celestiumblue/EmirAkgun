@@ -1,8 +1,6 @@
-# Ahoy! 
-
 
 ## About me
-### Academic programmes
+### Formal Education
  **MSc in Data Analytics**, [Queen's Univeristy Belfast ](https://www.qub.ac.uk/)
  
 **Bachelor's degree in Managament**, [Plekhanov Russian University of Economics](https://www.rea.ru/en/Pages/default.aspx)
