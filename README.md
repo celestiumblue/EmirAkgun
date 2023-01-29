@@ -4,9 +4,9 @@
  **MSc in Data Analytics**, [Queen's Univeristy Belfast ](https://www.qub.ac.uk/)
  
 **Bachelor's degree in Managament**, [Plekhanov Russian University of Economics](https://www.rea.ru/en/Pages/default.aspx)
-### Certifications and additional courses
+### Certifications
 -
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celestiumblue&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirakgiun&theme=transparent)
 ## Stack
 ### Programming languages
 ![Python](https://img.shields.io/badge/-Python%203-4B8BBE?logo=python&logoColor=white&style=flat-square)
