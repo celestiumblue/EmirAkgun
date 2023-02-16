@@ -13,7 +13,7 @@
 ![R](https://img.shields.io/badge/-R-276DC2?logo=r&logoColor=white&style=flat-square)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-E24462?logo=kotlin&logoColor=white&style=flat-square)
 ### DS & ML frameworks
-![PyTorch](https://img.shields.io/badge/-PyTorch-#DE3412?logo=pytorch&logoColor=white&style=flat-square)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ### Data analysis & visualisation tools
 ![Excel](https://img.shields.io/badge/-MS%20Excel-1d6f42?logo=microsoftexcel&logoColor=white&style=flat-square)
