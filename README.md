@@ -1,8 +1,8 @@
 
 ## About me
 ### Formal Education
-**MSc in Data Analytics**, [Queen's Univeristy Belfast ](https://www.qub.ac.uk/) <br />
-**Bachelor's degree in Management**, [Plekhanov Russian University of Economics](https://www.rea.ru/en/Pages/default.aspx)
+-**MSc in Data Analytics**, [Queen's Univeristy Belfast ](https://www.qub.ac.uk/) <br />
+-**Bachelor's degree in Management**, [Plekhanov Russian University of Economics](https://www.rea.ru/en/Pages/default.aspx)
 
 
 ## Stack
