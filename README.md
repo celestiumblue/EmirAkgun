@@ -1,11 +1,8 @@
 
 ## About me
 ### Formal Education
- **MSc in Data Analytics**, [Queen's Univeristy Belfast ](https://www.qub.ac.uk/)
- 
+**MSc in Data Analytics**, [Queen's Univeristy Belfast ](https://www.qub.ac.uk/)
 **Bachelor's degree in Management**, [Plekhanov Russian University of Economics](https://www.rea.ru/en/Pages/default.aspx)
-### Certifications
--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirakgiun&theme=transparent)
 ## Stack
 ### Programming languages
