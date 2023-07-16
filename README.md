@@ -14,7 +14,7 @@
 ![Python](https://img.shields.io/badge/-Python%203-4B8BBE?logo=python&logoColor=white&style=flat-square)
 ![R](https://img.shields.io/badge/-R-276DC2?logo=r&logoColor=white&style=flat-square)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-E24462?logo=kotlin&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
 ### DS & ML Frameworks
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
 ![PyTorchLightning](https://img.shields.io/badge/-Lightning-792EE5?logo=Lightning&logoColor=white&style=flat-square)
@@ -46,13 +46,14 @@
 ### API Frameworks
 ![FP](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat-square)
-### CLIs, Versioning, Issue Tracking  and Documentation tools
+### CLIs, Linking, Versioning, Issue Tracking and Documentation tools
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=GNU%20Bash&logoColor=white&style=flat-square)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?logo=cmake&logoColor=white&style=flat-square)
+![Prec](https://img.shields.io/badge/-Pre-commit-FAB040?logo=precommit&logoColor=black&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F1502F?logo=git&logoColor=white&style=flat-square)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
 ![MD](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat-square)
 ![LT](https://img.shields.io/badge/-LaTeX-2d5c00?logo=latex&logoColor=white&style=flat-square)
-
 ### Android App Development tools
 ![Kotlin Multiplatform Mobile](https://img.shields.io/badge/-Kotlin%20Multiplatform%20Mobile-F96F29?logo=Kotlin&logoColor=white&style=flat-square)
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=Gradle&logoColor=white&style=flat-square)
