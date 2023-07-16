@@ -34,7 +34,6 @@
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
 ![WB](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00.svg?style=flat-square&logo=weightsandbiases&logoColor=black)
 ### DBMSs, Distributed Systems & Data Warehousing tools
-![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
 ![Azure](https://img.shields.io/badge/-MS%20Azure-008AD7?logo=microsoftazure&logoColor=white&style=flat-square)
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white&style=flat-square)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=Apache%20Kafka&logoColor=white&style=flat-square)
