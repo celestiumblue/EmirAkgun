@@ -4,9 +4,6 @@
 - **MSc in Data Analytics**, [Queen's Univeristy Belfast ](https://www.qub.ac.uk/) <br />
 - **Bachelor's degree in Management**, [Plekhanov Russian University of Economics](https://www.rea.ru/en/Pages/default.aspx)
 ### Certifications
-#### Contact me through e-mail or via:
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?logo=linkedin&logoColor=white&style=flat-square)
-![WWW](https://img.shields.io/badge/-Personal%20Website-191919?logo=undertale&logoColor=white&style=flat-square)
 
 ## Stack Overview
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirakgiun&layout=compact&theme=transparent)
