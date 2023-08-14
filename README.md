@@ -32,7 +32,7 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logoColor=white&style=flat-square&logo=Terraform)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
 ![WB](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00.svg?style=flat-square&logo=weightsandbiases&logoColor=black)
-![PG](https://img.shields.io/badge/Prometheus%20&%20Graphana-E6552C.svg?style=flat-square&logo=prometheus&logoColor=black)
+![PG](https://img.shields.io/badge/Prometheus%20&%20Grafana-E6552C.svg?style=flat-square&logo=prometheus&logoColor=black)
 ### DBMSs, Distributed Systems & Data Warehousing tools
 ![Azure](https://img.shields.io/badge/-MS%20Azure-008AD7?logo=microsoftazure&logoColor=white&style=flat-square)
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white&style=flat-square)
