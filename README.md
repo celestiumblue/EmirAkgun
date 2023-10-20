@@ -10,7 +10,7 @@
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python%203-4B8BBE?logo=python&logoColor=white&style=flat-square)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=Kotlin&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
+![Scala](https://img.shields.io/badge/-Scala-DE3423?logo=scala&logoColor=white&style=flat-square)
 ### DS & ML Frameworks
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
 ![PyTorchLightning](https://img.shields.io/badge/-Lightning-792EE5?logo=Lightning&logoColor=white&style=flat-square)
@@ -47,7 +47,6 @@
 ### CLIs, Linking, Versioning, Issue Tracking and Documentation tools
 ![WSL2](https://img.shields.io/badge/-WSL2-E95420?logo=ubuntu&logoColor=white&style=flat-square)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=GNU%20Bash&logoColor=white&style=flat-square)
-![CMake](https://img.shields.io/badge/-CMake-064F8C?logo=cmake&logoColor=white&style=flat-square)
 ![Prec](https://img.shields.io/badge/-Pre--commit-FAB040?logo=precommit&logoColor=black&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F1502F?logo=git&logoColor=white&style=flat-square)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
